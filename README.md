@@ -20,5 +20,5 @@ It demonstrates live hand tracking, gesture classification, joint angle analysis
 
 ## 📋 Installation
 
-  pip install -r requirements.txt
-  Run through: python main.py
+- pip install -r requirements.txt
+- Run through: python main.py
